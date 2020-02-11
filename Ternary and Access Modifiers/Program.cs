@@ -2,7 +2,7 @@
 
 namespace Ternary_and_Access_Modifiers {
     class Program {
-        static void Main(string[] args) {
+        static void Main(string[] args) { 
 
             Console.WriteLine(Customer.PrintNextID());
             Console.WriteLine($"The cube of 17 is {Cubed(17)}");
